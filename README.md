@@ -1,1 +1,2 @@
 # DEVELOPMENT-OF-DUAL-BAND-MICROSTRIP-PATCH-ANTENNA-FOR-WLAN-Application
+a compact, high-gain and dual-band MPA formed with a pair of inverted L-shaped patches and -shaped ground plane is presented that is suitable for WLAN/MIMO/WiMAX/ AMSAT/WAVE and other long-distance communication applications. The frequency bands with return loss below 210 dB cover 3.34–3.54 and 4.90–6.26 GHz with maximum gain values of 6.1 and 8.0 dB in the lower and higher frequency bands, respectively, thus making the proposed antenna appropriate for high-gain applications.
