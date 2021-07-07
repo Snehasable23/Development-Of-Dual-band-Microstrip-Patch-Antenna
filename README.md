@@ -1,4 +1,4 @@
 # DEVELOPMENT-OF-DUAL-BAND-MICROSTRIP-PATCH-ANTENNA-FOR-WLAN-Application
-
+Dual-band microstrip-fed patch antenna in which the radiating structure is formed with a pair of inverted L-shaped patches and ground plane is being modified to a shape.
 The proposed microstrip patch antenna ( design is capable of generating two distinct operating bands with 10 dB return loss as follows  3.34  3.54 GHz  and  4.90  6.26 GHz with adequate bandwidth of 200 MHz and 1.36 GHz, respectively The proposed microstrip patch antenna ( design is capable of generating two distinct operating bands with 10 dB return loss as follows 3.34  3.54 GHz  and  4.90  6.26 GHz with adequate bandwidth of 200 MHz and 1 36 GHz, respectively.
 Proposed Microstrip patch antenna was simulated using HFSS high frequency structure simulator.
